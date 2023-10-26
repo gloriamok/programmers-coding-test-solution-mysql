@@ -10,3 +10,4 @@
 | SELECT | 1 | 132203 | [흉부외과 또는 일반외과 의사 목록 출력하기](SELECT/132203_SELECT.sql) |
 | SELECT | 1 | 144853 | [조건에 맞는 도서 리스트 출력하기](SELECT/144853_SELECT.sql) |
 | SELECT | 1 | 132201 | [12세 이하인 여자 환자 목록 출력하기](SELECT/132201_SELECT.sql) |
+| SELECT | 2 | 131120 | [3월에 태어난 여성 회원 목록 출력하기](SELECT/131120_SELECT.sql) |
