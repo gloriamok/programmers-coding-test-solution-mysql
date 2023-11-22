@@ -6,6 +6,7 @@
 
 | Statement | Level | Problem No. | Problem Title |
 | --- | --- | --- | --- |
+| SELECT | 1 | 59405 | [상위 n개 레코드](SELECT/59405_SELECT.sql) |
 | SELECT | 1 | 131112 | [강원도에 위치한 생산공장 목록 출력하기](SELECT/131112_SELECT.sql) |
 | SELECT | 1 | 132203 | [흉부외과 또는 일반외과 의사 목록 출력하기](SELECT/132203_SELECT.sql) |
 | SELECT | 1 | 132201 | [12세 이하인 여자 환자 목록 출력하기](SELECT/132201_SELECT.sql) |
