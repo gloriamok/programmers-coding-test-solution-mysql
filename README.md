@@ -15,3 +15,4 @@
 | SELECT | 1 | 151136 | [평균 일일 대여 요금 구하기](SELECT/151136_SELECT.sql) |
 | SELECT | 1 | 164673 | [조건에 부합하는 중고거래 댓글 조회하기](SELECT/164673_SELECT.sql) |
 | SELECT | 2 | 131120 | [3월에 태어난 여성 회원 목록 출력하기](SELECT/131120_SELECT.sql) |
+| SELECT | 4 | 131118 | [서울에 위치한 식당 목록 출력하기](SELECT/131118_SELECT.sql) |
